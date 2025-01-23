@@ -25,4 +25,7 @@ FILES AND THEIR FUNCTIONS:
 
 * visualizations.py: This file contains functions to visualize the processed data. It generates charts and graphs, such as severity distribution plots and confusion matrices, to help users understand and analyze the predictions and the system's performance effectively.
 
+* socialmedia-Disaster-tweets-DFE.csv: The original csv file or dataset which contains tweets and messages from the various social media platforms.
+
+* socialmedia-Disaster-tweets-DFE-updated.csv: The updated csv file or dataset which have cleaned text and have an additional column of severity.
 This system is designed to enhance disaster management efforts by ensuring critical emergencies are addressed with priority, thereby improving response efficiency and saving lives.
